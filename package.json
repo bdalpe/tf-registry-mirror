@@ -27,7 +27,7 @@
     "axios": "^1.7.2",
     "axios-logger": "^2.8.1",
     "express": "^4.19.2",
-    "keyv": "^4.5.4",
+    "keyv": "^5.0.0",
     "morgan": "^1.10.0",
     "normalize-path": "^3.0.0",
     "unzipit": "^1.4.3"
