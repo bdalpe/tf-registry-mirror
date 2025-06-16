@@ -1,6 +1,6 @@
 services:
   nginx:
-    image: openresty/openresty:1.27.1.1-2-alpine-apk
+    image: openresty/openresty:1.27.1.2-2-alpine-apk
     ports:
       - "8888:8888"
     volumes:
